@@ -8,6 +8,7 @@ dependencies:
   - ipython = 5
   # bind tornado version (websocket problems)
   - tornado = 4.5
+  - yahoo-finance = 1.4.0
   # get dependencies for pgcontents
   - certifi
   - click
